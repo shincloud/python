@@ -1,2 +1,2 @@
 print "Hello Python!!!"
-print "OK"
+print "OK..."
